@@ -46,8 +46,9 @@ export PATH=${HOME}/go/bin:$PATH
 
 4. After it's done, open the **Command Palette** again
     1. Type: `shell`
-    2. Select: _"Install 'code' command in PATH"_
-        1. **NOTE:** You don't have to do this if you're on Windows.
+    2. Select: _"Install 'code' commmand in PATH"_
+        1. **NOTE:** if you install M1 that you see permission error to solve problem is that firstly remove code and after reinstall code
+        2. **NOTE:** You don't have to do this if you're on Windows.
 
 ## That's all! Enjoy! 🤩
 
